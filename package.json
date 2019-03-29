@@ -1,0 +1,20 @@
+{
+  "name": "planning",
+  "version": "1.0.0",
+  "description": "Gestion du planning des employés",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koulikana/Planning.git"
+  },
+  "author": "Audrey COMLAN-CATARIA",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Koulikana/Planning/issues"
+  },
+  "homepage": "https://github.com/Koulikana/Planning#readme"
+}
